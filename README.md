@@ -1,5 +1,8 @@
 # hello-world
+=============
+
+## Why
 forgot how to use github TBH familia
 
-## about me
+## About Me
 I have a dog and she likes food.
